@@ -34,7 +34,7 @@ Project of Machine Learning (ML) Course for Master in Data Science Program of Un
        		* kNN
        		* Decision Tree
        		* Naive Bayes
-    * Final Model
+    * Final Model Performance Analysis (Generalization, bias, variance analysis)
         * Training-Test Error Analysis on the max_depth Parameter
         * Training-Test Error Analysis on the n_estimators Parameter
         * Training-Test Error Analysis on the Training Data Size
