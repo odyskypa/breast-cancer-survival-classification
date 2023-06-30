@@ -26,6 +26,14 @@ Project of Machine Learning (ML) Course for Master in Data Science Program of Un
     * Preprocessing
     * Learning Algorithms
     * Model Comparison & Hyper Parameter Tuning
+    	* 5-fold Cross Validation on the following models, with multiple hyper-parameter values:
+     		* Logistic Regression
+       		* Random Forest
+       		* SVM
+       		* Gradient Boosting
+       		* kNN
+       		* Decision Tree
+       		* Naive Bayes
     * Final Model
         * Training-Test Error Analysis on the max_depth Parameter
         * Training-Test Error Analysis on the n_estimators Parameter
