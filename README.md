@@ -1,5 +1,5 @@
 # Breast Cancer Survival Classification
-Project of Machine Learning (ML) Course for the Program `Master in Data Science` of Universitat Politècnica de Catalunya (UPC)
+Project of Machine Learning (ML) Course for the `Master in Data Science` Program of Universitat Politècnica de Catalunya (UPC)
 ***
 ## Instructions for Executing Analysis Notebooks
 
