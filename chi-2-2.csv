@@ -1,0 +1,477 @@
+Variable 1,Variable 2,Chi-square,P-value
+age,survival_months,4493.834343082057,9.389909559860886e-06
+age,age_at_diagnosis,18520.256287677934,0.0
+age,race_Other,67.79085252057627,0.0028860436909665986
+age,race_White,69.3728801004138,0.001961352950650633
+age,marital_status_Single ,66.5585335132279,0.003875862374940017
+age,marital_status_Widowed,175.00021960492666,3.846059646460527e-19
+6th_stage_IIIB,age,55.96418719675739,0.03836193224382013
+age,differentiate_Poorly differentiated,67.27954335791881,0.003263778181154727
+age,grade_III,67.27954335791881,0.003263778181154727
+age,progesterone_status_Negative,70.18280298792885,0.0016042315909813498
+age,progesterone_status_Positive,70.18280298792885,0.0016042315909813498
+age,age_group_Elderly,2692.0,0.0
+age,age_group_Middle-aged,2692.0,0.0
+age,age_group_Young,2692.0,0.0
+age,race_group_Caucasian,69.3728801004138,0.001961352950650633
+age,race_group_Non-Caucasian,69.3728801004138,0.001961352950650633
+survival_months,tumor_size,10914.243609516727,0.0001944493781405055
+positive_lymph_ratio,tumor_size,34946.311240991075,2.8053305898116926e-286
+t_stage_T1,tumor_size,2647.3286785335736,0.0
+t_stage_T2,tumor_size,2587.4723166843114,0.0
+t_stage_T3,tumor_size,2423.3181821958,0.0
+t_stage_T4,tumor_size,459.72416515831173,7.374328966737622e-48
+n_stage_N1,tumor_size,315.81937017627024,1.833422348468672e-24
+n_stage_N2,tumor_size,188.64638125190396,1.4839742315182595e-07
+n_stage_N3,tumor_size,240.15184501114862,9.731413017964537e-14
+6th_stage_IIA,tumor_size,1925.6235449834087,0.0
+6th_stage_IIB,tumor_size,1312.2022086073748,5.989485608917257e-211
+6th_stage_IIIA,tumor_size,565.2440381666515,1.9310430689257283e-66
+6th_stage_IIIB,tumor_size,408.42864962194136,3.3808935075491345e-39
+6th_stage_IIIC,tumor_size,240.15184501114862,9.731413017964537e-14
+differentiate_Poorly differentiated,tumor_size,137.68017676181103,0.006186076470171628
+differentiate_Well differentiated,tumor_size,136.92008668459283,0.006989373278612288
+grade_I,tumor_size,136.92008668459283,0.006989373278612288
+grade_III,tumor_size,137.68017676181103,0.006186076470171628
+a_stage_Distant,tumor_size,237.18687633204348,2.365226220632085e-13
+a_stage_Regional,tumor_size,237.18687633204348,2.365226220632085e-13
+tumor_size,tumor_stage_group_Advanced Stage,2647.3286785335736,0.0
+tumor_size,tumor_stage_group_Early Stage,2647.3286785335736,0.0
+age_at_diagnosis,survival_months,6653.933015325928,4.8726493409107e-70
+positive_lymph_ratio,survival_months,33637.55066454906,1.7445330977255183e-136
+marital_status_Separated,survival_months,156.01337602404058,0.0009163135376125669
+survival_months,t_stage_T4,171.086714879405,4.924835530228938e-05
+n_stage_N1,survival_months,170.67679362610295,5.3598104899326216e-05
+n_stage_N3,survival_months,215.16023575724887,1.3849622001148038e-09
+6th_stage_IIIB,survival_months,137.26335158270734,0.018897231960030066
+6th_stage_IIIC,survival_months,215.16023575724887,1.3849622001148038e-09
+differentiate_Undifferentiated,survival_months,134.43359558843412,0.02791253661225886
+differentiate_Poorly differentiated,survival_months,151.9467593112749,0.001878236670340628
+differentiate_Moderately differentiated,survival_months,133.31754501455248,0.032386054585314544
+grade_II,survival_months,133.31754501455248,0.032386054585314544
+grade_III,survival_months,151.9467593112749,0.001878236670340628
+grade_IV,survival_months,134.43359558843412,0.02791253661225886
+a_stage_Distant,survival_months,201.01382778668054,5.239305193384976e-08
+a_stage_Regional,survival_months,201.01382778668054,5.239305193384976e-08
+estrogen_status_Negative,survival_months,324.7943053017007,2.7094861852023154e-24
+estrogen_status_Positive,survival_months,324.7943053017007,2.7094861852023154e-24
+progesterone_status_Negative,survival_months,211.24535564185317,3.8710709794806085e-09
+progesterone_status_Positive,survival_months,211.24535564185317,3.8710709794806085e-09
+age_at_diagnosis,positive_lymph_ratio,12139.380203649122,0.005397156931604458
+age_at_diagnosis,race_Other,70.16311145497427,0.009574898221060162
+age_at_diagnosis,race_White,85.39235597048742,0.00026315859316426515
+age_at_diagnosis,marital_status_Single ,72.99390623895752,0.005194189630493948
+age_at_diagnosis,marital_status_Widowed,202.33301196079668,7.897390325468337e-22
+age_at_diagnosis,t_stage_T3,63.30653509582408,0.03714108986150684
+age_at_diagnosis,n_stage_N3,81.22031261480616,0.0007554132733059587
+6th_stage_IIIC,age_at_diagnosis,81.22031261480616,0.0007554132733059587
+age_at_diagnosis,differentiate_Undifferentiated,83.54568530246902,0.00042217130142610136
+age_at_diagnosis,differentiate_Poorly differentiated,83.56863728189904,0.00041972223865580744
+age_at_diagnosis,grade_III,83.56863728189904,0.00041972223865580744
+age_at_diagnosis,grade_IV,83.54568530246902,0.00042217130142610136
+age_at_diagnosis,estrogen_status_Negative,74.4930631490587,0.00371490085866406
+age_at_diagnosis,estrogen_status_Positive,74.4930631490587,0.00371490085866406
+age_at_diagnosis,progesterone_status_Negative,66.09802913204952,0.021877679921440664
+age_at_diagnosis,progesterone_status_Positive,66.09802913204952,0.021877679921440664
+age_at_diagnosis,age_group_Elderly,2228.834718572425,0.0
+age_at_diagnosis,age_group_Middle-aged,1817.0636754268714,0.0
+age_at_diagnosis,age_group_Young,2231.054223067092,0.0
+age_at_diagnosis,race_group_Caucasian,85.39235597048742,0.00026315859316426515
+age_at_diagnosis,race_group_Non-Caucasian,85.39235597048742,0.00026315859316426515
+positive_lymph_ratio,race_Other,304.1922413569873,0.03407385227366393
+marital_status_Divorced,positive_lymph_ratio,304.1517125420212,0.034195156684614196
+marital_status_Widowed,positive_lymph_ratio,313.98270327232717,0.013653552609418184
+positive_lymph_ratio,t_stage_T1,348.6483280667484,0.00022940844207863846
+positive_lymph_ratio,t_stage_T3,394.7492298844319,1.661981060304623e-07
+positive_lymph_ratio,t_stage_T4,392.61594019843756,2.4171003085959896e-07
+n_stage_N1,positive_lymph_ratio,1685.7204136383864,1.4283662376927884e-206
+n_stage_N2,positive_lymph_ratio,1404.490545195948,9.421252607256388e-156
+n_stage_N3,positive_lymph_ratio,1716.5071439816172,3.0623712329130113e-212
+6th_stage_IIA,positive_lymph_ratio,523.1513515986397,1.0431196798404945e-19
+6th_stage_IIB,positive_lymph_ratio,420.5866986139427,1.351334275295307e-09
+6th_stage_IIIA,positive_lymph_ratio,1040.6120098238707,1.4458419492424046e-93
+6th_stage_IIIC,positive_lymph_ratio,1716.5071439816172,3.0623712329130113e-212
+differentiate_Undifferentiated,positive_lymph_ratio,300.80543339864954,0.04554965004189943
+differentiate_Poorly differentiated,positive_lymph_ratio,317.1327044193645,0.009938050884758184
+grade_III,positive_lymph_ratio,317.1327044193645,0.009938050884758184
+grade_IV,positive_lymph_ratio,300.80543339864954,0.04554965004189943
+a_stage_Distant,positive_lymph_ratio,674.9439907765227,1.9962372112117286e-38
+a_stage_Regional,positive_lymph_ratio,674.9439907765227,1.9962372112117286e-38
+estrogen_status_Negative,positive_lymph_ratio,405.36261328652324,2.4457256736676228e-08
+estrogen_status_Positive,positive_lymph_ratio,405.36261328652324,2.4457256736676228e-08
+positive_lymph_ratio,progesterone_status_Negative,317.64845297307767,0.009424370713090382
+positive_lymph_ratio,progesterone_status_Positive,317.64845297307767,0.009424370713090382
+positive_lymph_ratio,tumor_stage_group_Advanced Stage,348.6483280667484,0.00022940844207863846
+positive_lymph_ratio,tumor_stage_group_Early Stage,348.6483280667484,0.00022940844207863846
+race_Black,race_Other,17.30948725327634,3.175972402294254e-05
+race_Black,race_White,1121.066652093752,8.713795943897447e-246
+marital_status_Married,race_Black,88.14253287847225,6.090385651859587e-21
+marital_status_Separated,race_Black,6.316773834226947,0.011960103592994308
+marital_status_Single ,race_Black,74.15364366485258,7.226756900009243e-18
+marital_status_Widowed,race_Black,7.8845366644725505,0.0049859250197334766
+n_stage_N1,race_Black,6.155333975643457,0.013101637488791073
+n_stage_N3,race_Black,4.457819299057544,0.03474182284906534
+6th_stage_IIIC,race_Black,4.457819299057544,0.03474182284906534
+differentiate_Poorly differentiated,race_Black,13.092366647179407,0.00029650151683699856
+differentiate_Moderately differentiated,race_Black,6.266500792991663,0.012304190094314178
+grade_II,race_Black,6.266500792991663,0.012304190094314178
+grade_III,race_Black,13.092366647179407,0.00029650151683699856
+estrogen_status_Negative,race_Black,10.16253817679862,0.001433231669581173
+estrogen_status_Positive,race_Black,10.162538176798618,0.0014332316695811736
+progesterone_status_Negative,race_Black,4.976507136926076,0.025693808156209523
+progesterone_status_Positive,race_Black,4.976507136926076,0.025693808156209523
+age_group_Young,race_Black,7.004933608046547,0.008128538819444576
+race_Black,race_group_Caucasian,1121.066652093752,8.713795943897447e-246
+race_Black,race_group_Non-Caucasian,1121.066652093752,8.713795943897447e-246
+race_Other,race_White,1334.59537153579,3.4295546914116285e-292
+marital_status_Married,race_Other,5.507270384662872,0.018937579706409764
+race_Other,t_stage_T2,5.173987053143758,0.022927535515343066
+age_group_Elderly,race_Other,3.8796652487379846,0.048874301221780964
+age_group_Young,race_Other,12.827577358970718,0.00034154770268732986
+race_Other,race_group_Caucasian,1334.59537153579,3.4295546914116285e-292
+race_Other,race_group_Non-Caucasian,1334.5953715357898,3.429554691412018e-292
+marital_status_Married,race_White,23.2448966489293,1.4262841910821287e-06
+marital_status_Separated,race_White,4.909059965546005,0.026716177064147355
+marital_status_Single ,race_White,24.386405303960245,7.882297397878515e-07
+race_White,t_stage_T2,4.957344694488028,0.025980071250532012
+n_stage_N1,race_White,5.54390087600995,0.01854519972472859
+differentiate_Poorly differentiated,race_White,10.810146525065685,0.001009453128451141
+differentiate_Moderately differentiated,race_White,6.616565785061787,0.01010344697408591
+grade_II,race_White,6.616565785061787,0.01010344697408591
+grade_III,race_White,10.810146525065685,0.001009453128451141
+estrogen_status_Negative,race_White,10.920845975105433,0.0009508817746264671
+estrogen_status_Positive,race_White,10.920845975105433,0.0009508817746264671
+age_group_Elderly,race_White,4.389601802254268,0.036158757270357035
+age_group_Middle-aged,race_White,7.686020636987225,0.005565019822180544
+age_group_Young,race_White,21.86107541337343,2.931198413476424e-06
+race_White,race_group_Caucasian,2684.3061256025353,0.0
+race_White,race_group_Non-Caucasian,2684.3061256025353,0.0
+marital_status_Divorced,marital_status_Married,674.3805055672742,1.114242711601053e-148
+marital_status_Divorced,marital_status_Separated,4.045093895451245,0.04429991425820144
+marital_status_Divorced,marital_status_Single ,67.32425919321591,2.303297220796737e-16
+marital_status_Divorced,marital_status_Widowed,22.699654740755037,1.8940189769944821e-06
+marital_status_Divorced,n_stage_N3,13.77958952961361,0.000205557342002189
+6th_stage_IIIC,marital_status_Divorced,13.77958952961361,0.000205557342002189
+estrogen_status_Negative,marital_status_Divorced,3.945834063162539,0.04698755534985523
+estrogen_status_Positive,marital_status_Divorced,3.945834063162539,0.04698755534985523
+age_group_Middle-aged,marital_status_Divorced,5.207246997325726,0.022492923816463183
+age_group_Young,marital_status_Divorced,5.856060202435334,0.015523503896231146
+marital_status_Married,marital_status_Separated,66.16689065085903,4.1431398532046946e-16
+marital_status_Married,marital_status_Single ,919.8835018912212,4.671306580552119e-202
+marital_status_Married,marital_status_Widowed,318.26048675979234,3.4658364495324576e-71
+marital_status_Married,n_stage_N3,7.235016337811658,0.007149515967771305
+6th_stage_IIIC,marital_status_Married,7.235016337811658,0.007149515967771305
+differentiate_Poorly differentiated,marital_status_Married,4.448906000834685,0.03492361270057006
+differentiate_Moderately differentiated,marital_status_Married,7.175579960852821,0.007390255351062739
+grade_II,marital_status_Married,7.175579960852821,0.007390255351062739
+grade_III,marital_status_Married,4.448906000834685,0.03492361270057006
+age_group_Elderly,marital_status_Married,5.220155442270146,0.022326555273171608
+age_group_Young,marital_status_Married,5.200544705461623,0.02257981141245576
+marital_status_Married,race_group_Caucasian,23.244896648929302,1.4262841910821261e-06
+marital_status_Married,race_group_Non-Caucasian,23.2448966489293,1.4262841910821287e-06
+marital_status_Separated,marital_status_Single ,5.842647257135884,0.015642274897127953
+marital_status_Separated,n_stage_N3,4.485367662666992,0.03418619243238542
+6th_stage_IIIC,marital_status_Separated,4.485367662666992,0.03418619243238542
+marital_status_Separated,progesterone_status_Negative,8.044353466364221,0.004564570663388908
+marital_status_Separated,progesterone_status_Positive,8.044353466364221,0.004564570663388908
+marital_status_Separated,race_group_Caucasian,4.909059965546005,0.026716177064147355
+marital_status_Separated,race_group_Non-Caucasian,4.909059965546005,0.026716177064147355
+marital_status_Single ,marital_status_Widowed,31.306112683765665,2.2038465507848144e-08
+differentiate_Poorly differentiated,marital_status_Single ,4.919923750574082,0.026548688797142464
+differentiate_Moderately differentiated,marital_status_Single ,4.894312991145433,0.026945292337251004
+grade_II,marital_status_Single ,4.894312991145433,0.026945292337251004
+grade_III,marital_status_Single ,4.919923750574082,0.026548688797142464
+age_group_Elderly,marital_status_Single ,14.60381899762331,0.00013264545842074703
+age_group_Young,marital_status_Single ,16.032662710114103,6.225909551560701e-05
+marital_status_Single ,race_group_Caucasian,24.386405303960245,7.882297397878515e-07
+marital_status_Single ,race_group_Non-Caucasian,24.386405303960245,7.882297397878515e-07
+age_group_Elderly,marital_status_Widowed,119.46216900893113,8.296256344303182e-28
+age_group_Young,marital_status_Widowed,67.78566438847473,1.8226989943229033e-16
+t_stage_T1,t_stage_T2,1433.4008058193322,0.0
+t_stage_T1,t_stage_T3,258.0468272059451,4.573695326138558e-58
+t_stage_T1,t_stage_T4,45.90375207268207,1.2420783427188678e-11
+n_stage_N1,t_stage_T1,143.74294346564974,4.043828379475142e-33
+n_stage_N2,t_stage_T1,48.88557606120542,2.7133884775699435e-12
+n_stage_N3,t_stage_T1,73.26983138624657,1.1308323256776585e-17
+6th_stage_IIA,t_stage_T1,1929.5572769254172,0.0
+6th_stage_IIB,t_stage_T1,692.5272900757336,1.260974848978358e-152
+6th_stage_IIIA,t_stage_T1,135.69193716382864,2.3301807172164827e-31
+6th_stage_IIIB,t_stage_T1,27.533349182883764,1.5440895873266076e-07
+6th_stage_IIIC,t_stage_T1,73.26983138624657,1.1308323256776585e-17
+differentiate_Poorly differentiated,t_stage_T1,23.70974752065405,1.1201376477121656e-06
+differentiate_Well differentiated,t_stage_T1,16.30941873119827,5.379589660412886e-05
+grade_I,t_stage_T1,16.30941873119827,5.379589660412886e-05
+grade_III,t_stage_T1,23.70974752065405,1.1201376477121656e-06
+a_stage_Distant,t_stage_T1,21.263611361052288,4.002579945319798e-06
+a_stage_Regional,t_stage_T1,21.263611361052284,4.002579945319806e-06
+age_group_Elderly,t_stage_T1,4.968616752532423,0.025811281802279266
+age_group_Young,t_stage_T1,10.64653897076909,0.001102770798320434
+t_stage_T1,tumor_stage_group_Advanced Stage,2687.816623618681,0.0
+t_stage_T1,tumor_stage_group_Early Stage,2687.816623618681,0.0
+t_stage_T2,t_stage_T3,323.64143579592564,2.332015711582164e-72
+t_stage_T2,t_stage_T4,57.77640046361617,2.936719807541638e-14
+n_stage_N1,t_stage_T2,18.513622212878282,1.6869428685724553e-05
+n_stage_N2,t_stage_T2,13.230911289033948,0.00027536989870110586
+6th_stage_IIA,t_stage_T2,1028.8930314754907,9.419998882570711e-226
+6th_stage_IIB,t_stage_T2,1299.1013891758462,1.772158242717894e-284
+6th_stage_IIIA,t_stage_T2,5.643015572667462,0.017525039247615157
+6th_stage_IIIB,t_stage_T2,34.75166689224231,3.7455786421526796e-09
+differentiate_Poorly differentiated,t_stage_T2,11.22249232622972,0.0008081189452171425
+differentiate_Well differentiated,t_stage_T2,6.754722134736843,0.009349990577820814
+grade_I,t_stage_T2,6.754722134736843,0.009349990577820814
+grade_III,t_stage_T2,11.22249232622972,0.0008081189452171425
+race_group_Caucasian,t_stage_T2,4.957344694488028,0.025980071250532012
+race_group_Non-Caucasian,t_stage_T2,4.957344694488027,0.02598007125053202
+t_stage_T2,tumor_stage_group_Advanced Stage,1433.4008058193322,0.0
+t_stage_T2,tumor_stage_group_Early Stage,1433.4008058193322,0.0
+t_stage_T3,t_stage_T4,9.643920793502756,0.001899792829293627
+n_stage_N1,t_stage_T3,63.946214190298306,1.2786278104182273e-15
+n_stage_N2,t_stage_T3,14.822597425866281,0.00011811172318714668
+n_stage_N3,t_stage_T3,44.6818580758535,2.317951484427607e-11
+6th_stage_IIA,t_stage_T3,184.99553070086583,3.933450406716457e-42
+6th_stage_IIB,t_stage_T3,155.96493624158103,8.616476430376313e-36
+6th_stage_IIIA,t_stage_T3,530.1263824371758,2.6512681234656697e-117
+6th_stage_IIIB,t_stage_T3,5.503453930053845,0.018978951382334925
+6th_stage_IIIC,t_stage_T3,44.6818580758535,2.317951484427607e-11
+differentiate_Undifferentiated,t_stage_T3,4.645780357702968,0.031129980539103232
+grade_IV,t_stage_T3,4.645780357702968,0.031129980539103232
+age_group_Elderly,t_stage_T3,8.840857117116657,0.002945607763993427
+age_group_Young,t_stage_T3,12.527807394063972,0.0004009400251428826
+t_stage_T3,tumor_stage_group_Advanced Stage,258.0468272059451,4.573695326138558e-58
+t_stage_T3,tumor_stage_group_Early Stage,258.0468272059451,4.573695326138558e-58
+n_stage_N1,t_stage_T4,38.89809006552149,4.465172614163399e-10
+n_stage_N3,t_stage_T4,45.55848201445276,1.481487469121065e-11
+6th_stage_IIA,t_stage_T4,32.68233047536276,1.0851925281870699e-08
+6th_stage_IIB,t_stage_T4,27.428674244627476,1.6299640275459139e-07
+6th_stage_IIIA,t_stage_T4,24.64808409040991,6.881313126889833e-07
+6th_stage_IIIB,t_stage_T4,1612.9506976236967,0.0
+6th_stage_IIIC,t_stage_T4,45.55848201445276,1.481487469121065e-11
+differentiate_Poorly differentiated,t_stage_T4,9.51764868289349,0.0020350516311761803
+differentiate_Moderately differentiated,t_stage_T4,4.119499312249718,0.04239162273525226
+grade_II,t_stage_T4,4.119499312249718,0.04239162273525226
+grade_III,t_stage_T4,9.51764868289349,0.0020350516311761803
+a_stage_Distant,t_stage_T4,302.92066158929873,7.611454844106522e-68
+a_stage_Regional,t_stage_T4,302.92066158929873,7.611454844106522e-68
+t_stage_T4,tumor_stage_group_Advanced Stage,45.903752072682074,1.2420783427188595e-11
+t_stage_T4,tumor_stage_group_Early Stage,45.903752072682074,1.2420783427188595e-11
+n_stage_N1,n_stage_N2,1457.8510770769099,0.0
+n_stage_N1,n_stage_N3,740.2870897624563,5.192257603030779e-163
+6th_stage_IIA,n_stage_N1,609.4626061777583,1.4643114161233282e-134
+6th_stage_IIB,n_stage_N1,514.1779996164742,7.820036336501634e-114
+6th_stage_IIIA,n_stage_N1,828.4603512057722,3.502692793259684e-182
+6th_stage_IIIB,n_stage_N1,3.9519538618239274,0.046816979193863344
+6th_stage_IIIC,n_stage_N1,740.2870897624563,5.192257603030779e-163
+differentiate_Poorly differentiated,n_stage_N1,42.99365429609333,5.491770478888076e-11
+differentiate_Well differentiated,n_stage_N1,31.16397628663094,2.3712591338397783e-08
+grade_I,n_stage_N1,31.16397628663094,2.3712591338397783e-08
+grade_III,n_stage_N1,42.99365429609333,5.491770478888076e-11
+a_stage_Distant,n_stage_N1,100.61955996876982,1.1146156689109024e-23
+a_stage_Regional,n_stage_N1,100.61955996876982,1.1146156689109024e-23
+estrogen_status_Negative,n_stage_N1,27.736593586795323,1.390081872171199e-07
+estrogen_status_Positive,n_stage_N1,27.736593586795323,1.390081872171199e-07
+n_stage_N1,progesterone_status_Negative,14.019836260458677,0.0001808922334371377
+n_stage_N1,progesterone_status_Positive,14.019836260458677,0.0001808922334371377
+n_stage_N1,race_group_Caucasian,5.54390087600995,0.01854519972472859
+n_stage_N1,race_group_Non-Caucasian,5.543900876009949,0.018545199724728588
+n_stage_N1,tumor_stage_group_Advanced Stage,143.74294346564974,4.043828379475142e-33
+n_stage_N1,tumor_stage_group_Early Stage,143.74294346564974,4.043828379475142e-33
+n_stage_N2,n_stage_N3,93.50236243257567,4.0571596164543266e-22
+6th_stage_IIA,n_stage_N2,330.2597907611571,8.437322507697739e-74
+6th_stage_IIB,n_stage_N2,278.55512798211544,1.5504638408626337e-62
+6th_stage_IIIA,n_stage_N2,1784.7563378518719,0.0
+6th_stage_IIIB,n_stage_N2,17.981036425063873,2.2311663257096496e-05
+6th_stage_IIIC,n_stage_N2,93.50236243257567,4.0571596164543266e-22
+differentiate_Well differentiated,n_stage_N2,11.164696171643218,0.0008336862115518709
+grade_I,n_stage_N2,11.164696171643218,0.0008336862115518709
+estrogen_status_Negative,n_stage_N2,4.275035692739504,0.038676151582392446
+estrogen_status_Positive,n_stage_N2,4.275035692739504,0.038676151582392446
+n_stage_N2,tumor_stage_group_Advanced Stage,48.88557606120542,2.7133884775699435e-12
+n_stage_N2,tumor_stage_group_Early Stage,48.88557606120541,2.7133884775699544e-12
+6th_stage_IIA,n_stage_N3,167.32530546294652,2.8403574501753487e-38
+6th_stage_IIB,n_stage_N3,141.05286202918387,1.56669009227985e-32
+6th_stage_IIIA,n_stage_N3,127.14658428157182,1.7254672950974517e-29
+6th_stage_IIIB,n_stage_N3,4.894438982398321,0.02694332625557982
+6th_stage_IIIC,n_stage_N3,2682.409197608846,0.0
+differentiate_Poorly differentiated,n_stage_N3,52.56116823089073,4.1705434520244344e-13
+differentiate_Moderately differentiated,n_stage_N3,14.830306971199334,0.00011762988930909858
+differentiate_Well differentiated,n_stage_N3,14.585927026217384,0.00013391087453736158
+grade_I,n_stage_N3,14.585927026217384,0.00013391087453736158
+grade_II,n_stage_N3,14.830306971199334,0.00011762988930909858
+grade_III,n_stage_N3,52.56116823089073,4.1705434520244344e-13
+a_stage_Distant,n_stage_N3,273.634043787855,1.8319114107202142e-61
+a_stage_Regional,n_stage_N3,273.634043787855,1.8319114107202142e-61
+estrogen_status_Negative,n_stage_N3,24.283855688359907,8.313292706107937e-07
+estrogen_status_Positive,n_stage_N3,24.283855688359903,8.313292706107942e-07
+n_stage_N3,progesterone_status_Negative,24.49611853970611,7.445968610268111e-07
+n_stage_N3,progesterone_status_Positive,24.49611853970611,7.445968610268111e-07
+n_stage_N3,tumor_stage_group_Advanced Stage,73.26983138624657,1.1308323256776585e-17
+n_stage_N3,tumor_stage_group_Early Stage,73.26983138624657,1.1308323256776585e-17
+6th_stage_IIA,6th_stage_IIB,496.9497186331452,4.381814388493354e-110
+6th_stage_IIA,6th_stage_IIIA,448.2010418707939,1.776725643055192e-99
+6th_stage_IIA,6th_stage_IIIB,19.495924521697965,1.008145474135136e-05
+6th_stage_IIA,6th_stage_IIIC,167.32530546294652,2.8403574501753487e-38
+6th_stage_IIA,differentiate_Poorly differentiated,38.818372182781445,4.651294273818847e-10
+6th_stage_IIA,differentiate_Well differentiated,29.432635281761772,5.7894455519934557e-08
+6th_stage_IIA,grade_I,29.432635281761772,5.7894455519934557e-08
+6th_stage_IIA,grade_III,38.818372182781445,4.651294273818847e-10
+6th_stage_IIA,a_stage_Distant,31.203373348698037,2.323619457720171e-08
+6th_stage_IIA,a_stage_Regional,31.20337334869804,2.323619457720167e-08
+6th_stage_IIA,estrogen_status_Negative,5.120577732712307,0.02364374378327096
+6th_stage_IIA,estrogen_status_Positive,5.120577732712307,0.02364374378327096
+6th_stage_IIA,progesterone_status_Negative,7.015416603894783,0.008081082775341019
+6th_stage_IIA,progesterone_status_Positive,7.015416603894783,0.008081082775341019
+6th_stage_IIA,age_group_Young,5.449557399044245,0.019573284961354093
+6th_stage_IIA,tumor_stage_group_Advanced Stage,1929.5572769254172,0.0
+6th_stage_IIA,tumor_stage_group_Early Stage,1929.5572769254172,0.0
+6th_stage_IIB,6th_stage_IIIA,378.08725175406903,3.2463797665027404e-84
+6th_stage_IIB,6th_stage_IIIB,16.302733837907603,5.398600905617924e-05
+6th_stage_IIB,6th_stage_IIIC,141.05286202918387,1.56669009227985e-32
+6th_stage_IIB,a_stage_Distant,26.18072378069901,3.1091067823749543e-07
+6th_stage_IIB,a_stage_Regional,26.18072378069901,3.1091067823749543e-07
+6th_stage_IIB,estrogen_status_Negative,3.870554065944859,0.04914029660645549
+6th_stage_IIB,estrogen_status_Positive,3.8705540659448596,0.04914029660645543
+6th_stage_IIB,age_group_Middle-aged,5.409940800296801,0.020022395011163634
+6th_stage_IIB,age_group_Young,5.441786252132372,0.01966055340712274
+6th_stage_IIB,tumor_stage_group_Advanced Stage,692.5272900757336,1.260974848978358e-152
+6th_stage_IIB,tumor_stage_group_Early Stage,692.5272900757336,1.260974848978358e-152
+6th_stage_IIIA,6th_stage_IIIB,14.612915300022426,0.00013200674222661597
+6th_stage_IIIA,6th_stage_IIIC,127.14658428157182,1.7254672950974517e-29
+6th_stage_IIIA,differentiate_Well differentiated,7.356904420644545,0.006680571052288613
+6th_stage_IIIA,grade_I,7.356904420644545,0.006680571052288613
+6th_stage_IIIA,a_stage_Distant,23.52241851789253,1.234667031030843e-06
+6th_stage_IIIA,a_stage_Regional,23.52241851789253,1.234667031030843e-06
+6th_stage_IIIA,tumor_stage_group_Advanced Stage,135.69193716382864,2.3301807172164827e-31
+6th_stage_IIIA,tumor_stage_group_Early Stage,135.69193716382864,2.3301807172164827e-31
+6th_stage_IIIB,6th_stage_IIIC,4.894438982398321,0.02694332625557982
+6th_stage_IIIB,a_stage_Distant,194.27474667128087,3.709362320761961e-44
+6th_stage_IIIB,a_stage_Regional,194.27474667128087,3.709362320761961e-44
+6th_stage_IIIB,tumor_stage_group_Advanced Stage,27.533349182883764,1.5440895873266076e-07
+6th_stage_IIIB,tumor_stage_group_Early Stage,27.533349182883764,1.5440895873266076e-07
+6th_stage_IIIC,differentiate_Poorly differentiated,52.56116823089073,4.1705434520244344e-13
+6th_stage_IIIC,differentiate_Moderately differentiated,14.830306971199334,0.00011762988930909858
+6th_stage_IIIC,differentiate_Well differentiated,14.585927026217384,0.00013391087453736158
+6th_stage_IIIC,grade_I,14.585927026217384,0.00013391087453736158
+6th_stage_IIIC,grade_II,14.830306971199334,0.00011762988930909858
+6th_stage_IIIC,grade_III,52.56116823089073,4.1705434520244344e-13
+6th_stage_IIIC,a_stage_Distant,273.634043787855,1.8319114107202142e-61
+6th_stage_IIIC,a_stage_Regional,273.634043787855,1.8319114107202142e-61
+6th_stage_IIIC,estrogen_status_Negative,24.283855688359907,8.313292706107937e-07
+6th_stage_IIIC,estrogen_status_Positive,24.283855688359903,8.313292706107942e-07
+6th_stage_IIIC,progesterone_status_Negative,24.49611853970611,7.445968610268111e-07
+6th_stage_IIIC,progesterone_status_Positive,24.49611853970611,7.445968610268111e-07
+6th_stage_IIIC,tumor_stage_group_Advanced Stage,73.26983138624657,1.1308323256776585e-17
+6th_stage_IIIC,tumor_stage_group_Early Stage,73.26983138624657,1.1308323256776585e-17
+differentiate_Poorly differentiated,differentiate_Undifferentiated,3.90260097279518,0.04821141387053623
+differentiate_Moderately differentiated,differentiate_Undifferentiated,17.779587826162572,2.4802998373527988e-05
+differentiate_Undifferentiated,grade_II,17.779587826162572,2.4802998373527988e-05
+differentiate_Undifferentiated,grade_III,3.90260097279518,0.04821141387053623
+differentiate_Undifferentiated,grade_IV,2502.1787262352373,0.0
+differentiate_Moderately differentiated,differentiate_Poorly differentiated,1417.3344742084241,3.59440846512494e-310
+differentiate_Poorly differentiated,differentiate_Well differentiated,155.53469950678306,1.0699088912795583e-35
+differentiate_Poorly differentiated,grade_I,155.53469950678306,1.0699088912795583e-35
+differentiate_Poorly differentiated,grade_II,1417.3344742084241,3.59440846512494e-310
+differentiate_Poorly differentiated,grade_III,2686.9207131280154,0.0
+differentiate_Poorly differentiated,grade_IV,3.90260097279518,0.04821141387053623
+a_stage_Distant,differentiate_Poorly differentiated,3.959517917163904,0.04660704923311308
+a_stage_Regional,differentiate_Poorly differentiated,3.9595179171639043,0.046607049233113054
+differentiate_Poorly differentiated,estrogen_status_Negative,118.12400422516123,1.628799100546036e-27
+differentiate_Poorly differentiated,estrogen_status_Positive,118.12400422516123,1.628799100546036e-27
+differentiate_Poorly differentiated,progesterone_status_Negative,81.78054721394196,1.5206795163401751e-19
+differentiate_Poorly differentiated,progesterone_status_Positive,81.78054721394196,1.5206795163401751e-19
+age_group_Elderly,differentiate_Poorly differentiated,8.166658385105734,0.004266744304094868
+age_group_Young,differentiate_Poorly differentiated,20.58881255971165,5.692781642117692e-06
+differentiate_Poorly differentiated,race_group_Caucasian,10.810146525065687,0.001009453128451141
+differentiate_Poorly differentiated,race_group_Non-Caucasian,10.810146525065687,0.001009453128451141
+differentiate_Poorly differentiated,tumor_stage_group_Advanced Stage,23.70974752065405,1.1201376477121656e-06
+differentiate_Poorly differentiated,tumor_stage_group_Early Stage,23.70974752065405,1.1201376477121656e-06
+differentiate_Moderately differentiated,differentiate_Well differentiated,607.5215525575047,3.8709567195081026e-134
+differentiate_Moderately differentiated,grade_I,607.5215525575047,3.8709567195081026e-134
+differentiate_Moderately differentiated,grade_II,2687.871363840832,0.0
+differentiate_Moderately differentiated,grade_III,1417.3344742084241,3.59440846512494e-310
+differentiate_Moderately differentiated,grade_IV,17.779587826162576,2.4802998373527934e-05
+differentiate_Moderately differentiated,estrogen_status_Negative,53.73896450554972,2.2897674212654757e-13
+differentiate_Moderately differentiated,estrogen_status_Positive,53.73896450554972,2.2897674212654757e-13
+differentiate_Moderately differentiated,progesterone_status_Negative,26.75507630225811,2.3094424596342022e-07
+differentiate_Moderately differentiated,progesterone_status_Positive,26.75507630225811,2.3094424596342022e-07
+age_group_Young,differentiate_Moderately differentiated,10.357362144518776,0.001289593450031904
+differentiate_Moderately differentiated,race_group_Caucasian,6.616565785061787,0.01010344697408591
+differentiate_Moderately differentiated,race_group_Non-Caucasian,6.616565785061788,0.010103446974085906
+differentiate_Well differentiated,grade_I,2683.5331029583676,0.0
+differentiate_Well differentiated,grade_II,607.5215525575047,3.8709567195081026e-134
+differentiate_Well differentiated,grade_III,155.53469950678306,1.0699088912795583e-35
+differentiate_Well differentiated,estrogen_status_Negative,15.231937568866707,9.508175333917578e-05
+differentiate_Well differentiated,estrogen_status_Positive,15.231937568866707,9.508175333917578e-05
+differentiate_Well differentiated,progesterone_status_Negative,18.455882970425527,1.7388322086412778e-05
+differentiate_Well differentiated,progesterone_status_Positive,18.455882970425527,1.7388322086412778e-05
+differentiate_Well differentiated,tumor_stage_group_Advanced Stage,16.30941873119827,5.379589660412886e-05
+differentiate_Well differentiated,tumor_stage_group_Early Stage,16.30941873119827,5.379589660412886e-05
+grade_I,grade_II,607.5215525575047,3.8709567195081026e-134
+grade_I,grade_III,155.53469950678306,1.0699088912795583e-35
+estrogen_status_Negative,grade_I,15.231937568866707,9.508175333917578e-05
+estrogen_status_Positive,grade_I,15.231937568866707,9.508175333917578e-05
+grade_I,progesterone_status_Negative,18.455882970425527,1.7388322086412778e-05
+grade_I,progesterone_status_Positive,18.455882970425527,1.7388322086412778e-05
+grade_I,tumor_stage_group_Advanced Stage,16.30941873119827,5.379589660412886e-05
+grade_I,tumor_stage_group_Early Stage,16.30941873119827,5.379589660412886e-05
+grade_II,grade_III,1417.3344742084241,3.59440846512494e-310
+grade_II,grade_IV,17.779587826162576,2.4802998373527934e-05
+estrogen_status_Negative,grade_II,53.73896450554972,2.2897674212654757e-13
+estrogen_status_Positive,grade_II,53.73896450554972,2.2897674212654757e-13
+grade_II,progesterone_status_Negative,26.75507630225811,2.3094424596342022e-07
+grade_II,progesterone_status_Positive,26.75507630225811,2.3094424596342022e-07
+age_group_Young,grade_II,10.357362144518776,0.001289593450031904
+grade_II,race_group_Caucasian,6.616565785061787,0.01010344697408591
+grade_II,race_group_Non-Caucasian,6.616565785061788,0.010103446974085906
+grade_III,grade_IV,3.90260097279518,0.04821141387053623
+a_stage_Distant,grade_III,3.959517917163904,0.04660704923311308
+a_stage_Regional,grade_III,3.9595179171639043,0.046607049233113054
+estrogen_status_Negative,grade_III,118.12400422516123,1.628799100546036e-27
+estrogen_status_Positive,grade_III,118.12400422516123,1.628799100546036e-27
+grade_III,progesterone_status_Negative,81.78054721394196,1.5206795163401751e-19
+grade_III,progesterone_status_Positive,81.78054721394196,1.5206795163401751e-19
+age_group_Elderly,grade_III,8.166658385105734,0.004266744304094868
+age_group_Young,grade_III,20.58881255971165,5.692781642117692e-06
+grade_III,race_group_Caucasian,10.810146525065687,0.001009453128451141
+grade_III,race_group_Non-Caucasian,10.810146525065687,0.001009453128451141
+grade_III,tumor_stage_group_Advanced Stage,23.70974752065405,1.1201376477121656e-06
+grade_III,tumor_stage_group_Early Stage,23.70974752065405,1.1201376477121656e-06
+a_stage_Distant,a_stage_Regional,2651.539036287784,0.0
+a_stage_Distant,estrogen_status_Negative,4.3553489307603845,0.03689290079357167
+a_stage_Distant,estrogen_status_Positive,4.3553489307603845,0.03689290079357167
+a_stage_Distant,tumor_stage_group_Advanced Stage,21.263611361052288,4.002579945319798e-06
+a_stage_Distant,tumor_stage_group_Early Stage,21.263611361052288,4.002579945319798e-06
+a_stage_Regional,estrogen_status_Negative,4.355348930760384,0.03689290079357165
+a_stage_Regional,estrogen_status_Positive,4.355348930760384,0.03689290079357165
+a_stage_Regional,tumor_stage_group_Advanced Stage,21.263611361052288,4.002579945319798e-06
+a_stage_Regional,tumor_stage_group_Early Stage,21.263611361052288,4.002579945319798e-06
+estrogen_status_Negative,estrogen_status_Positive,2675.306543391193,0.0
+estrogen_status_Negative,progesterone_status_Negative,736.2015283942192,4.0153472228008706e-162
+estrogen_status_Negative,progesterone_status_Positive,736.2015283942192,4.0153472228008706e-162
+age_group_Elderly,estrogen_status_Negative,7.347524546916567,0.006715516081838835
+estrogen_status_Negative,race_group_Caucasian,10.920845975105433,0.0009508817746264671
+estrogen_status_Negative,race_group_Non-Caucasian,10.920845975105433,0.0009508817746264671
+estrogen_status_Positive,progesterone_status_Negative,736.2015283942192,4.0153472228008706e-162
+estrogen_status_Positive,progesterone_status_Positive,736.2015283942192,4.0153472228008706e-162
+age_group_Elderly,estrogen_status_Positive,7.347524546916567,0.006715516081838835
+estrogen_status_Positive,race_group_Caucasian,10.920845975105433,0.0009508817746264671
+estrogen_status_Positive,race_group_Non-Caucasian,10.920845975105433,0.0009508817746264671
+progesterone_status_Negative,progesterone_status_Positive,2684.7704107597738,0.0
+age_group_Middle-aged,progesterone_status_Negative,11.192264530812427,0.0008213903894860217
+age_group_Young,progesterone_status_Negative,6.638301037145246,0.009980907472616887
+age_group_Middle-aged,progesterone_status_Positive,11.192264530812428,0.0008213903894860215
+age_group_Young,progesterone_status_Positive,6.638301037145247,0.009980907472616884
+age_group_Elderly,age_group_Middle-aged,555.6750954414108,7.335634392915672e-123
+age_group_Elderly,age_group_Young,611.2710559449041,5.919598864321295e-135
+age_group_Elderly,race_group_Caucasian,4.389601802254268,0.036158757270357035
+age_group_Elderly,race_group_Non-Caucasian,4.389601802254268,0.036158757270357035
+age_group_Elderly,tumor_stage_group_Advanced Stage,4.968616752532423,0.025811281802279266
+age_group_Elderly,tumor_stage_group_Early Stage,4.968616752532423,0.025811281802279266
+age_group_Middle-aged,age_group_Young,849.828817572723,7.921032123284441e-187
+age_group_Middle-aged,race_group_Caucasian,7.686020636987225,0.005565019822180544
+age_group_Middle-aged,race_group_Non-Caucasian,7.686020636987225,0.005565019822180544
+age_group_Young,race_group_Caucasian,21.861075413373435,2.9311984134764175e-06
+age_group_Young,race_group_Non-Caucasian,21.861075413373435,2.9311984134764175e-06
+age_group_Young,tumor_stage_group_Advanced Stage,10.64653897076909,0.001102770798320434
+age_group_Young,tumor_stage_group_Early Stage,10.646538970769091,0.0011027707983204329
+race_group_Caucasian,race_group_Non-Caucasian,2684.3061256025353,0.0
+tumor_stage_group_Advanced Stage,tumor_stage_group_Early Stage,2687.816623618681,0.0
